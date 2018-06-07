@@ -14,29 +14,29 @@ Tapping on a link will take you to relevant materials.
                 - [ ] KVO
                 - [ ] Toll-free bridging
                 - [ ] `Runtime`
-                    - [ ] Method messaging
-                    - [ ] Swizling
-                    - [ ] NSZombies and KVO implementation
+                    - [x] Method messaging
+                    - [x] Swizling
+                    - [x] NSZombies and KVO implementation
         - [ ] [`Swift`](Resources/iOS_Developer/Practical_knowledge/Swift/RESOURCES.md)
-            - [ ] Closures
-            - [ ] `Initializers`
-            - [ ] Generics
-            - [ ] `Protocols`
-            - [ ] `Structs`
-            - [ ] `Enums`
-            - [ ] Runtime
-                - [ ] [Method dispatch](Resources/iOS_Developer/Practical_knowledge/Swift/Runtime/Method_dispatch/RESOURCES.md)
+            - [x] Closures
+            - [x] `Initializers`
+            - [x] Generics
+            - [x] `Protocols`
+            - [x] `Structs`
+            - [x] `Enums`
+            - [x] Runtime
+                - [x] [Method dispatch](Resources/iOS_Developer/Practical_knowledge/Swift/Runtime/Method_dispatch/RESOURCES.md)
         - [ ] `Memory management`
-            - [ ] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
-            - [ ] `Value vs Reference type`
+            - [x] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
+            - [x] `Value vs Reference type`
             - [x] [MRC](Resources/iOS_Developer/Practical_knowledge/Memory_management/MRC/RESOURCES.md)
             - [x] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
                 - [x] weak references
-            - [ ] `Retain cycles`
+            - [x] `Retain cycles`
             - [ ] Garbage collector
-            - [ ] `Memory leaks`
-            - [ ] Shallow and deep copying
-            - [ ] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
+            - [x] `Memory leaks`
+            - [x] Shallow and deep copying
+            - [x] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
         - [ ] `Multithreading and concurency`
             - [ ] POSIX threads
             - [ ] NSThreads
@@ -112,12 +112,12 @@ Tapping on a link will take you to relevant materials.
             - [x] Cocoapods
             - [x] Carthage
             - [x] Swift Package Manager
-        - [ ] Project structure and File/Group organisation
-        - [ ] `Version Control Systems`
+        - [x] Project structure and File/Group organisation
+        - [x] `Version Control Systems`
             - [x] [`Git`](Resources/iOS_Developer/Practical_knowledge/Version_Control_Systems/Git/RESOURCES.md)
             - [x] Mercurial
         - [ ] Debugging
-            - [ ] Instruments
+            - [x] Instruments
             - [x] Best practices
                 - [x] Checklists
         - [ ] UX
